@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18650304205",
+    "firebase_url": "https://socialcoldbeer.firebaseio.com",
+    "project_id": "socialcoldbeer",
+    "storage_bucket": "socialcoldbeer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18650304205:android:fc260b4294031fdedfa384",
+        "android_client_info": {
+          "package_name": "com.example.frost_beer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18650304205-p4bbcr0h7l0m1gsj018a3cm7l3cqh53a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frost_beer",
+            "certificate_hash": "b0fbe6f79e441139ba6ee8467547a830cc44aebb"
+          }
+        },
+        {
+          "client_id": "18650304205-e0gr31djm841gvdn72j14op8k9ssi0ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBZ7aBrwrPg1aLHXqftax0_9ZlV_ZXlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18650304205-e0gr31djm841gvdn72j14op8k9ssi0ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
